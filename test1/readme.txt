@@ -1,2 +1,3 @@
 this is readme file
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
